@@ -1,0 +1,7 @@
+secrets/
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
+.arquitetura_do_projeto.txt
