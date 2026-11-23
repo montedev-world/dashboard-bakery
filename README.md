@@ -8,9 +8,9 @@ The application provides an interactive overview of a bakery's financial perform
 
 Small businesses often rely on spreadsheets to manage their daily operations and track financial performance. While accessible, raw spreadsheet data can make it difficult to identify trends, monitor profitability, and evaluate business performance over time.
 
-This project addresses that challenge by connecting directly to Google Sheets and automatically transforming sales records into meaningful visualizations and financial metrics.
+This project addresses that challenge by connecting directly to [Google Sheets](https://docs.google.com/spreadsheets/d/1EhteU4uqQZJDFWpA5BMgENnR7eCBjAcm6WM9bcZcEto/edit?usp=sharing) and automatically transforming sales records into meaningful visualizations and financial metrics.
 
-Rather than relying on centralized Business Intelligence platforms, such as Power BI, this solution offers a lightweight and flexible alternative that can be deployed to a cloud server or hosted locally on a company's own infrastructure.
+Rather than relying on centralized Business Intelligence platforms, such as Power BI, this solution offers a lightweight and flexible alternative that can be deployed to a cloud server (in this case [Streamlit](https://dashboard-bakery-ibfkqnj9wwjpql9tnwnngj.streamlit.app/)) or hosted locally on a company's own infrastructure.
 
 ## Features
 
@@ -198,6 +198,7 @@ The dashboard is an ongoing project, with potential improvements including:
 - Improved data validation and error handling.
 - Expanded sales and product-level analytics.
 - Additional visualizations and reporting capabilities.
+- Financial report button that generates a pdf report file for download.
 
 ## Motivation
 
